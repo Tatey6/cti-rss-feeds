@@ -62,15 +62,6 @@ A curated, working list of RSS feeds for Cyber Threat Intelligence and 3D Printi
 | The Register | [Link](https://www.theregister.com/security/headlines.atom) |
 | ZDNet — Latest news | [Link](https://www.zdnet.com/topic/security/rss.xml) |
 
-## 3D Printing
-
-| Source | Feed URL |
-|---|---|
-| 3DPrint.com | [Link](https://3dprint.com/feed/) |
-| 3d printing – Hackaday | [Link](https://hackaday.com/tag/3d-printing/feed/) |
-| Bambu Lab Blog | [Link](https://blog.bambulab.com/rss/) |
-| Original Prusa 3D Printers | [Link](https://blog.prusa3d.com/feed/) |
-
 ---
 
 ### Notes
