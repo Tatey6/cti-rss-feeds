@@ -64,10 +64,3 @@ A curated, working list of RSS feeds for Cyber Threat Intelligence and 3D Printi
 
 ---
 
-### Notes
-
-- The two entries titled **"Latest publications of type Security Advisories"** and **"Latest publications of type Threat Intelligence"** are CERT-EU's auto-generated feed titles — they're listed above under Government and OSINT respectively, matching where they were originally added.
-- **"All Feed"** is NCSC UK's combined feed, covering all their published content types.
-- **"Latest news"** is ZDNet's default feed title.
-- Two News entries share a near-identical name ("Cyber Security News") but are different sites — `cybersecuritynews.com` and `cysecurity.news`. If you can confirm the second site's exact feed URL, it can be added here.
-- All feeds were verified working as of the FreshRSS subscription list screenshots taken during setup.
