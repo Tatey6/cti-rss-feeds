@@ -46,7 +46,7 @@ A curated, working list of RSS feeds for Cyber Threat Intelligence and 3D Printi
 | BleepingComputer | [Link](https://www.bleepingcomputer.com/feed/) |
 | CyberScoop | [Link](https://cyberscoop.com/feed/) |
 | Cyber Security News (cybersecuritynews.com) | [Link](https://cybersecuritynews.com/feed/) |
-| Cyber Security News (cysecurity.news) | — *(see note below)* |
+| Cyber Security News (cysecurity.news) | — *(xxx)* |
 | Daily CyberSecurity | [Link](https://securityonline.info/feed/) |
 | GBHackers Security | [Link](https://gbhackers.com/feed/) |
 | CIO | [Link](https://www.cio.com/feed/) |
